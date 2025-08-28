@@ -127,13 +127,13 @@
     <td align="left">
       <h3>🌠 Leetcode</h3>
       <div align="center">
-        <img src="https://leetcode.card.workers.dev/mahia12?theme=auto&font=baloo&extension=null" alt="LeetCode Stats">
+          ![](https://leetcard.jacoblin.cool/EilI59SDkv?ext=heatmap)
       </div>
     </td>
     <td align="right">
       <h3>🌌 Codeforces</h3>
       <div align="center">
-        ![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+         <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mahiamOmO" alt="Codeforces Stats">
       </div>
     </td>
   </tr>
