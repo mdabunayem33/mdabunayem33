@@ -140,9 +140,6 @@
   </table>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Contribution Stack -->
-<h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h1>
-
 <!-- ⚡ GitHub Activity Graph ⚡ -->
 
 <div align="center">
@@ -152,4 +149,3 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
- ![](https://leetcard.jacoblin.cool/EilI59SDkv?ext=heatmap)
