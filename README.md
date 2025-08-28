@@ -133,7 +133,7 @@
     <td align="right">
       <h3>🌌 Codeforces</h3>
       <div align="center">
-        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mahiamOmO" alt="Codeforces Stats">
+        ![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
       </div>
     </td>
   </tr>
