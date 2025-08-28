@@ -151,55 +151,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
- <!-- Footer -->
-<p align='center'>
-<img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="300px"  >
-</p>
-<!-- Footer -->
-
-<!-- Blog Section -->
-
-<div align="center">
-
-<h2>✍🏻 Read My Blogs on [ 
-<a href="https://medium.com/@mahiamomo12" target="_blank" rel="noopener noreferrer">Medium</a>, 
-<a href="https://dev.to/mahiamomo" target="_blank" rel="noopener noreferrer">Dev.to</a>, 
-<a href="https://mahiamomo.hashnode.dev" target="_blank" rel="noopener noreferrer">Hashnode</a>
-]</h2>
-
-<table border="0" width="100%" style="max-width: 900px;">
-  <tr valign="top">
-    <td width="60%" style="padding-right: 20px;">
-      <a href="https://medium.com/@mahiamomo12" target="_blank" rel="noopener noreferrer">
-        <img src="images/blog.png" alt="Medium Banner" width="100%" style="border-radius: 8px;"/>
-      </a>
-    </td>
-    <td width="40%">
-      <a href="https://app.daily.dev/mahiamomo" target="_blank" rel="noopener noreferrer">
-        <img src="https://api.daily.dev/devcards/v2/IpxMFimY50aNXRMaBWGbD.png?type=default&r=3yw" alt="Mahia Momo's Dev Card" width="100%" style="border-radius: 8px;" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 <br/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Blog Section -->
-
-
-<div align="center">
-
-
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<a href="https://www.buymeacoffee.com/sumontasahi">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
-</a>
-
-</div> 
 
