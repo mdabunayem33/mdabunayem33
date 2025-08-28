@@ -140,12 +140,3 @@
   </table>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ⚡ GitHub Activity Graph ⚡ -->
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahiamOmO&theme=react&color=00b7a8&line=00b7a8&point=007acc&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
