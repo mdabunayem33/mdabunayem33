@@ -40,26 +40,26 @@
 
 #### 🦖 Competitive Programming
 
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
 
 #### 📚 Frontend Development & Frameworks
 
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)
 
 
 #### 🚦 Version Control & Documentation Tools
 
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
   
 
@@ -84,14 +84,10 @@
  <a href="https://www.youtube.com/@mahiamomo12" title="YouTube Channel">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo" />
 </a>
-  <a href="https://linktr.ee/mahiamomo12" title="Linktree Profile">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="42" height="30" alt="linktree logo" />
-  </a>
   <a href="https://discord.gg/mahiiiiiaaa" title="Discord Server">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" width="92" height="30" alt="discord logo" />
   </a>
-  <a href="https://www.stopstalk.com/user/profile/mahiamomo" title="StopStalk Profile">
-    <img src="https://img.shields.io/badge/StopStalk-%23F06C6C.svg?logo=StopTalk&logoColor=white" width="92" height="30" alt="stopstalk logo" />
+ 
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -188,14 +184,6 @@
 
 <br/>
 
-| **Blog Name** | **Platform** | **Link** |
-|:-------------:|:------------:|:--------:|
-| Use Wakatime and Initialize Your Coding Time | <img src="https://cdn.worldvectorlogo.com/logos/devto.svg" alt="Dev.to" width="20"/> Dev.to | [👉 Read](https://dev.to/mahiamomo/use-wakatime-and-initialize-your-coding-time-5h6k) |
-| DOM কী? DOM নিয়ে কিছু মৌলিক ধারণা ! | <img src="https://cdn.worldvectorlogo.com/logos/medium-1.svg" alt="Medium" width="20"/> Medium | [👉 Read](https://medium.com/@mahiamomo12/dom-%E0%A6%95%E0%A7%80-dom-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%95%E0%A6%BF%E0%A6%9B%E0%A7%81-%E0%A6%AC%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A6%A5%E0%A6%BE-b009b4427f0c) |
-| How I Hacked My Brain to Crave Coding Every Day | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="Hashnode" width="20"/> Hashnode | [👉 Read](https://mahiamomo.hashnode.dev/how-i-hacked-my-brain-to-crave-coding-every-day) |
-| 16 Essential Qualities That Prove You Are a Skilled Programmer | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="Hashnode" width="20"/> Hashnode | [👉 Read](https://mahiamomo.hashnode.dev/16-essential-qualities-that-prove-you-are-a-skilled-programmer) |
-| Does Sass Offer the Features of a Programming Language? | <img src="https://cdn.worldvectorlogo.com/logos/devto.svg" alt="Dev.to" width="20"/> Dev.to | [👉 Read](https://dev.to/mahiamomo/is-saas-giving-us-the-flavour-of-programming-language-2jo4) |
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -205,8 +193,6 @@
 
 <div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mahiamOmO&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -216,12 +202,5 @@
 </a>
 
 </div> 
-
-<div align="center">
- 
-Donate if you wish to support 💗: 
-**[[Buy Me a Book](https://www.buymeacoffee.com/mahiamOmO)]**
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
