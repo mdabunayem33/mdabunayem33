@@ -72,10 +72,10 @@
 ## 📞 Connect with me
 
 <p align="center">
-  <a href="https://facebook.com/mahia.momo.12" title="Facebook Profile">
+  <a href="https://www.facebook.com/mdabunayem139093/" title="Facebook Profile">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="42" height="30" alt="facebook logo" />
   </a>
-  <a href="https://instagram.com/___mahiiiiaaaa____" title="Instagram Profile">
+  <a href="https://www.instagram.com/mdabunayemislam/" title="Instagram Profile">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo" />
   </a>
   <a href="https://twitter.com/mahia_momo12" title="Twitter Profile">
@@ -112,10 +112,10 @@
   
 # ⚡Git Stats ⚡
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mahiamomo&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=mahiamomo&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mdabunayem33&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=mdabunayem33&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
   <br/>
-  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mahiamomo&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs"/>
+  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mdabunayem33&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs"/>
 </div>
 <!-- Activity Animation -->
 
