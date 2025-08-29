@@ -120,19 +120,24 @@
 <!-- Activity Animation -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-  
+ <table>
+  <tr>
+    <td align="left">
       <h3>🌠 Leetcode</h3>
       <div align="center">
-        ![](https://leetcard.jacoblin.cool/EilI59SDkv?ext=heatmap)
+        <img src="https://leetcode.card.workers.dev/EilI59SDkv?theme=auto&font=baloo&extension=null" alt="LeetCode Stats">
       </div>
-  
-   
+    </td>
+    <td align="right">
       <h3>🌌 Codeforces</h3>
       <div align="center">
-         <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mahiamOmO" alt="Codeforces Stats">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mdabunayem33" alt="Codeforces Stats">
       </div>
+    </td>
+  </tr>
+  </table>
+
+  
     
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
