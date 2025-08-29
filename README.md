@@ -24,9 +24,9 @@
 🌱 I’m exploring in depth full stack webdevelopment😁</br>
 💻 I’m currently learning <b>Data Structures & Algorithms (DSA) with C++ .</br>
 👩‍💻 Right now, I’m focused on <b>Frontend development</b>.<br>
-🤝 I’m looking to collaborate on .<br>
-🤔 I’m looking for help with ... .<br>
-💬 Ask me about <b>HTML, CSS,  or anything tech-related</b>.<br>
+🤝 I’m looking to collaborate on.......<br>
+🤔 I’m looking for help with ........<br>
+💬 Ask me about <b>HTML, CSS, or anything tech-related</b>.<br>
 📫 How to reach me: mdabunayem33@gmail.com <br>
 ⚡ Fun fact: <i>I'm lazy but smart</i>😆<br>
 </p>
