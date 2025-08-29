@@ -43,7 +43,7 @@
 
 #### 🦖 Competitive Programming
 
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
+ [ ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
 
@@ -77,6 +77,9 @@
 <p align="center">
   <a href="https://www.facebook.com/mdabunayem139093/" title="Facebook Profile">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="42" height="30" alt="facebook logo" />
+  </a>
+   <a href="https://www.instagram.com/mdabunayemislam/" title="Linkdin Profile">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="linkdin logo" />
   </a>
   <a href="https://www.instagram.com/mdabunayemislam/" title="Instagram Profile">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo" />
